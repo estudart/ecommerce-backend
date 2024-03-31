@@ -10,7 +10,7 @@ const seedProducts = async () => {
     console.log("Products are deleted");
 
     await Product.insertMany(products);
-    console.log("Porducts are added");
+    console.log("Products are added");
 
     process.exit();
   } catch (error) {

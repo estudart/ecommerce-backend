@@ -1,5 +1,6 @@
 export default [
   {
+    id: "s1a2n3d4i5s6k7",
     name: "SanDisk Ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
     price: 45.89,
     description:
@@ -26,6 +27,7 @@ export default [
     reviews: [],
   },
   {
+    id: "c1a2n3",
     name: "CAN USB FD Adapter (GC-CAN-USB-FD)",
     price: 315,
     description:
@@ -56,6 +58,7 @@ export default [
     reviews: [],
   },
   {
+    id: "c1h2a3r4m5",
     name: "CHARMOUNT Full Motion TV Wall Mount Swivel",
     price: 26.99,
     description:
@@ -78,6 +81,7 @@ export default [
     reviews: [],
   },
   {
+    id: "B1o2s3e4",
     name: "Bose QuietComfort 35 II Wireless Bluetooth Headphones",
     price: 299,
     description:
@@ -100,6 +104,7 @@ export default [
     reviews: [],
   },
   {
+    id: "A1p2p3l4e5",
     name: "Apple AirPods with Charging Case (Wired)",
     price: 126.99,
     description:
@@ -126,6 +131,7 @@ export default [
     reviews: [],
   },
   {
+    id: "C1a2b3l4e5",
     name: "Cable Boom Microphone - Volume Control for Playstation PS4 or Xbox",
     price: 27.99,
     description:
@@ -144,6 +150,7 @@ export default [
     reviews: [],
   },
   {
+    id: "N1i2k3o4n5",
     name: "Nikon D3500 W/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Black",
     price: 496.95,
     description:
@@ -170,6 +177,7 @@ export default [
     reviews: [],
   },
   {
+    id: "A1p2p3l4e5M1a2c3B4o5o6k7",
     name: "Apple MacBook Air (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray",
     price: 949.99,
     description:
@@ -186,35 +194,13 @@ export default [
       },
       {
         public_id: "shopit/demo/pabtjloyzenmr6z8klcr",
-        url: "http://res.cloudinary.com/udemy-courses/image/upload/v1698577600/shopit/demo/pabtjloyzenmr6z8klcr.jpg",
+        url: "http://res.cloudinary.com/udemy-courses/image/upload/v1698577597/shopit/demo/pabtjloyzenmr6z8klcr.jpg",
       },
     ],
     category: "Laptops",
     seller: "Amazon",
-    stock: 0,
-    numOfReviews: 56,
-    reviews: [],
-  },
-  {
-    name: "Kauffman Orchards Homegrown McIntosh Apples",
-    price: 2.75,
-    description:
-      "McIntosh is a pretty red/green apple with white flesh Homegrown in Kauffman's orchard in healthy Lancaster County soil McIntosh apples are famous for snacking, pies, salads, and applesauce Protected with soft, high-density foam for safe shipping to your door Not for sale to California, Oregon, or Washington due to state laws governing fresh produce",
-    ratings: 5,
-    images: [
-      {
-        public_id: "shopit/demo/mq0zpyzmzqokphs9m9we",
-        url: "http://res.cloudinary.com/udemy-courses/image/upload/v1698577619/shopit/demo/mq0zpyzmzqokphs9m9we.jpg",
-      },
-      {
-        public_id: "shopit/demo/pkyy8rifxpesiwpy23kk",
-        url: "http://res.cloudinary.com/udemy-courses/image/upload/v1698577619/shopit/demo/pkyy8rifxpesiwpy23kk.jpg",
-      },
-    ],
-    category: "Food",
-    seller: "Kauffman's Fruit Farm & Market",
-    stock: 500,
-    numOfReviews: 1,
+    stock: 50,
+    numOfReviews: 900,
     reviews: [],
   },
 ];

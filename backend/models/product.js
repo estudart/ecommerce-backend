@@ -2,6 +2,11 @@ import mongoose from "mongoose";
 
 const productSchema = new mongoose.Schema(
   {
+    id: {
+      type: String,
+      required: [true, "Please enter product id"],
+      maxLength: [200, "Product id cannot exceed 200 characters"],
+    },
     name: {
       type: String,
       required: [true, "Please enter product name"],
